@@ -1,0 +1,22 @@
+body{
+    background-image: url(img/fondito_azul.jpg);
+}
+/* navbar */
+.justify-content-end{
+    padding-right: 50px;
+    background-color: #212121;
+    margin: 0px 100px 0px 100px;
+    border-radius: 2px;
+}
+.justify-content-end a{
+    color: whitesmoke;
+}
+.justify-content-end a:hover{
+    background-color: #52616b;
+    border-radius: 2px;
+}
+#carouselExampleIndicators{
+    margin: 0px 130px 0px 130px;
+    height: 500px;
+    
+}
