@@ -17,6 +17,9 @@ body{
 }
 #carouselExampleIndicators{
     margin: 0px 130px 0px 130px;
-    height: 500px;
+    height: 550px;
     
+}
+#cform{
+    color: aliceblue;
 }
